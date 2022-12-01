@@ -1,10 +1,12 @@
 <template>
-  <div>spu</div>
+<div>
+
+</div>
 </template>
 
 <script>
 export default {
-  name: "Spu"
+  name: "SkuForm"
 }
 </script>
 
